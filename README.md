@@ -1,4 +1,4 @@
-<img src="https://unsplash.com/photos/OVbeSXRk_9E">
+<img src="https://unsplash.com/photos/OVbeSXRk_9E"/>
 
 ### Hi there 👋, I'm Tanishq Motke.Welcome to my gh page! <br>
   
