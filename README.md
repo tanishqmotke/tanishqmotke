@@ -15,7 +15,7 @@
     
  😄 *Pronouns*: He/Him <br>
  
- ![Tanishq's github stats](https://github-readme-stats.vercel.app/api?username=tanishqmotke&theme=default&show_icons=true)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqmotke)](https://github.com/tanishqmotke)&nbsp;&nbsp;
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqmotke&langs_count=5)](https://github.com/tanishqmotke)&nbsp;&nbsp;![Tanishq's github stats](https://github-readme-stats.vercel.app/api?username=tanishqmotke&theme=default&show_icons=true)
  
  ### More awesome readme profiles ❤
  <a href="https://github.com/kmotke">
