@@ -10,6 +10,6 @@
  
  👯 *I’m looking to collaborate on*: Spring<br>
  
- 📫 *Contact me on*:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/tanishq-motke-b97581189/)&nbsp;&nbsp;[Email](tmotke98@gmail.com)<br>
+ 📫 *Contact me on*:&nbsp;&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/tanishq-motke-b97581189/)&nbsp;&nbsp;[Email](tmotke98@gmail.com)<br>
     
  😄 *Pronouns*: He/Him
