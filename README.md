@@ -22,4 +22,4 @@
     <img src="https://avatars3.githubusercontent.com/u/55249406?s=400&u=47122fb41e0d7aca0fccd13d694a9b6b118a8d3f&v=4" alt="Kshitij Motke" width="60px" height="60px">
 </a>
 
-Contributions are welcomed! ❤[add your profile](https://github.com/tanishqmotke/tanishqmotke/edit/master/src/data/users.ts)
+Contributions are welcomed! ❤[add your profile](https://github.com/tanishqmotke/tanishqmotke/edit/master/users.ts)
