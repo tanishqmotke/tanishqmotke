@@ -1,9 +1,9 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-## Hi there 👋🏼, I'm Tanishq 👨🏻‍💻!<br> Welcome to my gh page! <br>
+## Hi there 👋🏼, I'm Tanishq 👨🏻‍💻<br> Welcome to my gh page ! <br>
   
-   I'm Tanishq Motke , a passionate self-taught frontEnd web Developer from India.
+ <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="50"> I'm Tanishq Motke , a passionate self-taught frontEnd web Developer from India.
   
  🔭 *I’m currently working on*: Backend development<br>
  
@@ -17,3 +17,9 @@
  
  ![Tanishq's github stats](https://github-readme-stats.vercel.app/api?username=tanishqmotke&theme=default&show_icons=true)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqmotke)](https://github.com/tanishqmotke)&nbsp;&nbsp;
  
+ ### More awesome readme profiles ❤
+ <a href="https://github.com/kmotke">
+    <img src="https://avatars3.githubusercontent.com/u/55249406?s=400&u=47122fb41e0d7aca0fccd13d694a9b6b118a8d3f&v=4" alt="Kshitij Motke" width="60px" height="60px">
+</a>
+
+Contributions are welcomed! ❤[add your profile](https://github.com/tanishqmotke/tanishqmotke/edit/master/src/data/users.ts)
