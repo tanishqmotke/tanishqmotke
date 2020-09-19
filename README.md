@@ -1,16 +1,13 @@
-### Hi there 👋
+<img src="https://unsplash.com/photos/OVbeSXRk_9E">
 
-<!--
-**tanishqmotke/tanishqmotke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi there 👋, I'm Tanishq Motke.Welcome to my gh page! <br>
+  
+  [Here is What I'm Working On!] 👋
+ 🔭 *I’m currently working on*:Backend development
+ 🌱 *I’m currently learning*:Spring & Hibernate
+ 
+ 👯 *I’m looking to collaborate on*: Spring
+ 📫 *How to reach me*:
+    [LinkedIn](https://www.linkedin.com/in/tanishq-motke-b97581189/)
+    [Email](tmotke98@gmail.com)
+ 😄 *Pronouns*: He/Him
