@@ -4,9 +4,9 @@
   
   Here is What I'm Working On!👋<br>
   
- 🔭 *I’m currently working on*:Backend development<br>
+ 🔭 *I’m currently working on*: Backend development<br>
  
- 🌱 *I’m currently learning*:Spring & Hibernate<br>
+ 🌱 *I’m currently learning*: Spring & Hibernate<br>
  
  👯 *I’m looking to collaborate on*: Spring<br>
  
