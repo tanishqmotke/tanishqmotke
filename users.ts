@@ -1,10 +1,1 @@
-export const users = ["kmotke",
-                     " anuraghazra",
-
-
-                     
-                     
-                     
-                     
-                     
-                     ]
+export const users = ["kmotke",]
