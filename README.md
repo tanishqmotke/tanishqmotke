@@ -13,4 +13,7 @@
  
  📫 *Contact me on*:&nbsp;&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/tanishq-motke-b97581189/)&nbsp;&nbsp;[Email](tmotke98@gmail.com)<br>
     
- 😄 *Pronouns*: He/Him
+ 😄 *Pronouns*: He/Him <br>
+ 
+ ![Tanishq's github stats](https://github-readme-stats.vercel.app/api?username=tanishqmotke&theme=default&show_icons=true)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqmotke)](https://github.com/tanishqmotke)&nbsp;&nbsp;
+ 
