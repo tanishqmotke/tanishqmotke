@@ -5,7 +5,7 @@
 ## Hi there 👋🏼, I'm Tanishq 👨🏻‍💻 [![HitCount](http://hits.dwyl.com/tanishqmotke/ReadMe.svg)](http://hits.dwyl.com/tanishqmotke/ReadMe)
 <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="50">I'm Tanishq Motke , a passionate self-taught frontEnd web Developer from India.
   
- - 🔭  I’m currently working on: Backend development<br>
+ - 🔭  I’m currently working on:**Backend development**<br>
  
  - 🌱 I’m currently learning: Spring & Hibernate<br>
  
@@ -33,7 +33,7 @@
     <img src="https://avatars3.githubusercontent.com/u/55249406?s=400&u=47122fb41e0d7aca0fccd13d694a9b6b118a8d3f&v=4" alt="Kshitij Motke" width="60px" height="60px">&nbsp;&nbsp;
   <a href="https://github.com/smotke93">
     <img src="https://avatars0.githubusercontent.com/u/47669962?s=400&u=376b06acec7501ce6a9e538599a4dac55c7562f0&v=4" alt="Sankalp Motke" width="60px" height="60px">
-</a>
+</a
 
 Contributions are welcomed! ❤ [add your profile](https://github.com/tanishqmotke/tanishqmotke/edit/master/users.ts)
 
