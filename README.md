@@ -2,7 +2,7 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 
-## Hi there 👋🏼, I'm Tanishq 👨🏻‍💻 [![HitCount](http://hits.dwyl.com/tanishqmotke/ReadMe.svg)](http://hits.dwyl.com/tanishqmotke/ReadMe)
+## Hi there 👋🏼, I'm Tanishq 👨🏻‍💻 
 <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="50">I'm Tanishq Motke , a passionate self-taught frontEnd web Developer from India.
   
  - 🔭  I’m currently working on:**Backend development**<br>
