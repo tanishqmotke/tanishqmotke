@@ -5,7 +5,7 @@
 ## Hi there 👋🏼, I'm Tanishq 👨🏻‍💻 
 <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="50">I'm Tanishq Motke , a passionate self-taught frontEnd web Developer from India.
   
- - 🔭  I’m currently working on:**Backend development**<br>
+ - 🔭  I’m currently studying on:**Backend development**<br>
  
  - 🌱 I’m currently learning: Spring & Hibernate<br>
  
