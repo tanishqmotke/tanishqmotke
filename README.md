@@ -7,7 +7,7 @@
   
  - 🔭  I’m currently studying on:**Backend development**<br>
  
- - 🌱 I’m currently learning: Spring & Hibernate<br>
+ - 🌱 I’m currently learning: Spring <br>
  
  - 👯 I’m looking to collaborate on: Spring<br>
     
