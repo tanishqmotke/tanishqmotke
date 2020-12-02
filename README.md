@@ -7,9 +7,9 @@
   
  - 🔭  I’m currently studying on:**Backend development**<br>
  
- - 🌱 I’m currently learning: Spring <br>
+ - 🌱 I’m currently learning:JDBC <br>
  
- - 👯 I’m looking to collaborate on: Spring<br>
+ - 👯 I’m looking to collaborate on:WordPress<br>
     
  - 😄 Pronouns: He/Him <br>
  
