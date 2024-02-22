@@ -3,13 +3,13 @@
 
 
 ## Hi there 👋🏼, I'm Tanishq 👨🏻‍💻 
-<img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="50">I'm Tanishq Motke , a passionate self-taught frontEnd web Developer from India.
+<img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="50">I'm Tanishq Motke, a passionate self-taught frontEnd web Developer from India.
   
  - 🔭  I’m currently studying on:**Backend development**<br>
  
- - 🌱 I’m currently learning:JDBC <br>
+ - 🌱 I’m currently learning: JDBC <br>
  
- - 👯 I’m looking to collaborate on:WordPress<br>
+ - 👯 I’m looking to collaborate on WordPress<br>
     
  - 😄 Pronouns: He/Him <br>
  
