@@ -8,8 +8,6 @@
  - 🔭  I’m currently studying on:**Backend development**<br>
  
  - 🌱 I’m currently learning: JDBC <br>
- 
- - 👯 I’m looking to collaborate on WordPress<br>
     
  - 😄 Pronouns: He/Him <br>
  
